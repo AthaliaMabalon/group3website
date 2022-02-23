@@ -1,0 +1,23 @@
+<html>
+<head> <title> MATH </title> </head>
+
+<body> 
+<body background="math.jpg" style="background-size: 100%;">
+
+	<h1> <center> <br><br> <b> <u> <font face="Book Antiqua" size="30"> 	MATH </b> </u> </font> </center>
+
+
+	<br> <center> <img src="math.png" width="35%" height="80%"> 	</center> 
+
+	<tr> <table border="4" align="center">
+	
+	<br><br> <center> <td length="10%" width="10%"> <td bgcolor="yellow">
+	<a href="https://youtube.com/shorts/XA9vQv5OQGI?feature=share"> 
+	MATH VIDEO </center> </a> </td>
+
+	</tr> </table>
+
+
+</body>
+</html>
+
